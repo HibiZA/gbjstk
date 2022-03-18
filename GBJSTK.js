@@ -505,10 +505,6 @@ var gb = (function () {
 	}
 
 	var onload;
-<<<<<<< HEAD
-=======
-
->>>>>>> 5f6507d6643ac4251ce921de64f2c0eebce900e8
 	var location = {
 		href: href,
 		params: params,
